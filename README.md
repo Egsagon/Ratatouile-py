@@ -16,7 +16,7 @@ basing itself on 3 lists stored in the ```data.json``` file.
 The bot is now running. Every time an user in a channel includes 'rat'
 in a message, the bot will respond with a randomly generated sentence.
 
-Users can add words to the ````data.json``` list to make it bigger.
+Users can add words to the ```data.json``` list to make it bigger.
 They can use the ```!add <position> <word>``` command, where position
 is the position of the word in the sentence (for instance: 'tema' is 1,
 'la taille' is 2, and 'du rat' is 3), followed with the word they want
