@@ -1,6 +1,10 @@
 # Ratatouiile
 Discord bot - Tema la taille du rat
 
+## License
+
+MIT - See the LICENSE file.
+
 ### Requirements
 Requires the ```discord.py``` api.
 
